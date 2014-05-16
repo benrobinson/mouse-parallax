@@ -3,6 +3,10 @@ mouse-parallax
 
 A simple jQuery plugin for absolute or fixed positioned background layers that respond to mouse movement.
 
+##Demo
+
+[Take a look here!](http://keokee.com/html/mouseBackground.html)
+
 ##Usage
 
 Targets an element and sets it to respond to mouse movement in a "parallax" way.  
