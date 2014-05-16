@@ -35,8 +35,8 @@ The mouseparallax.css file contains a class called ".mouse-bg" which is just to 
 
 ```
 #background-container {
-position: relative; 
-overflow: hidden;
+  position: relative; 
+  overflow: hidden;
 }
 ```
 
